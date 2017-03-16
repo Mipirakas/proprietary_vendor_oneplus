@@ -1,5 +1,5 @@
 # Copyright (C) 2015-2016 The CyanogenMod Project
-# Copyright (C) 2017 The LineageOS Project
+# Copyright (C) 2017 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -505,3 +505,4 @@ PRODUCT_PACKAGES += \
     qcnvitems \
     qcrilhook \
     pp_calib_data_jd35695_1080p_cmd_mode_dsi_panel
+
